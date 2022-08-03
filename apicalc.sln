@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apicalc", "apicalc\apicalc.csproj", "{749A216D-4585-43F5-8FE0-97CA78CF0091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{C462BA4E-50B9-4F65-A28B-55BC7E69ABF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{749A216D-4585-43F5-8FE0-97CA78CF0091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749A216D-4585-43F5-8FE0-97CA78CF0091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749A216D-4585-43F5-8FE0-97CA78CF0091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749A216D-4585-43F5-8FE0-97CA78CF0091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C462BA4E-50B9-4F65-A28B-55BC7E69ABF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C462BA4E-50B9-4F65-A28B-55BC7E69ABF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C462BA4E-50B9-4F65-A28B-55BC7E69ABF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C462BA4E-50B9-4F65-A28B-55BC7E69ABF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE949BC8-D34A-4184-86B4-7E367966732F}
+	EndGlobalSection
+EndGlobal
